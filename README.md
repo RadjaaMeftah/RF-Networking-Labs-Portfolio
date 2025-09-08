@@ -9,7 +9,7 @@ As highlighted in my CV, I hold **three CCNA certifications** (Networks, Switchi
 ## 🎯 Objectives
 - ✔️ Demonstrate mastery of **routing protocols** (OSPF, RIP, static routing)  
 - ✔️ Configure **VLANs, inter-VLAN routing, and wireless networks**  
-- ✔️ Simulate **end-to-end IP network scenarios** that could integrate RF systems  
+- ✔️ Simulate **end-to-end IP network scenarios** 
 - ✔️ Highlight troubleshooting and **support engineering skills** relevant to telecom projects  
 
 ---
