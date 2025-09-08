@@ -2,7 +2,7 @@
 
 Welcome to my portfolio of **Cisco Packet Tracer projects**, designed to showcase my **networking expertise** alongside my strong background in **radiofrequency engineering**.  
 
-As highlighted in my CV, I hold **three CCNA certifications** (Networks, Switching/Routing/Wireless, Enterprise Networking & Automation). These labs serve as practical demonstrations of my ability to **design, configure, and troubleshoot IP networks**, complementing my RF experience in antenna design and signal characterization.  
+As highlighted in my CV, I hold **three CCNA certifications** (Networks, Switching/Routing/Wireless, Enterprise Networking & Automation). These labs serve as practical demonstrations of my ability to **design, configure, and troubleshoot IP networks**, complementing my RF experience in antenna design and characterization.  
 
 ---
 
